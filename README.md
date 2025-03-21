@@ -79,7 +79,7 @@
 <!--Statistics-->
 <h3 align="center">Github Statistics</h3>
 
-<div>
+<div align="center">
   <a href="https://github.com/selvaneyas">
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=selvaneyas&theme=github" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=selvaneyas&theme=github" height="180em" />
