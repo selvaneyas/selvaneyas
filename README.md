@@ -65,7 +65,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=selvaneyas&theme=github" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=selvaneyas&theme=github" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=selvaneyas&theme=github" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selvaneyas&theme=github&utcOffset=8" height="180em" />
+    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selvaneyas&theme=github&utcOffset=8" height="180em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvaneyas&theme=github" height="180em" />
   </a>
 </div>
