@@ -76,5 +76,18 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selvaneyas&" alt="GitHub Streak Stats" />
 </p>
 
+<!--Statistics-->
+<h3 align="center">Github Statistics</h3>
+
+<div align="center">
+  <a href="https://github.com/selvaneyas">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=selvaneyas&theme=github" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=selvaneyas&theme=github" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=selvaneyas&theme=github" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=selvaneyas&theme=github&utcOffset=8" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selvaneyas&theme=github" height="180em" />
+  </a>
+</div>
+
 <!-- GitHub Activity Graph -->
 [![Selva Neyas's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=selvaneyas&bg_color=ffffff&color=000000&line=2b00ff&point=2385e1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
