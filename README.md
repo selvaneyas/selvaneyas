@@ -16,7 +16,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=selvaneyas" alt=" GitHub Trophies" />
   </a> 
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=selvaneyas)](https://github.com/selvaneyas/github-profile-trophy)
 
 <!-- About Me -->
 - 🌱 I’m currently learning **B.E Computer Science Engineering (Artificial Intelligence and Machine Learning)**
