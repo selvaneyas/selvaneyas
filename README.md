@@ -22,9 +22,9 @@
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=selvaneyas)-->
 
 <!-- About Me -->
-                          🚀 AI/ML Engineer | 🌐 Web Developer | 🎓 Computer Science Student
 - 🌱 I’m currently learning **B.E Computer Science Engineering (Artificial Intelligence and Machine Learning)**
 <!--
+                          🚀 AI/ML Engineer | 🌐 Web Developer | 🎓 Computer Science Student
 📫 How to reach me:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/selva-neyas-u)
 - 🧠 [GitHub Projects](https://github.com/selvaneyas)-->
