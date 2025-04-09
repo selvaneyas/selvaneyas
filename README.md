@@ -24,10 +24,10 @@
 <!-- About Me -->
                           🚀 AI/ML Engineer | 🌐 Web Developer | 🎓 Computer Science Student
 - 🌱 I’m currently learning **B.E Computer Science Engineering (Artificial Intelligence and Machine Learning)**
-
+<!--
 📫 How to reach me:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/selva-neyas-u)
-- 🧠 [GitHub Projects](https://github.com/selvaneyas)
+- 🧠 [GitHub Projects](https://github.com/selvaneyas)-->
 
 <!-- Social Media Links -->
 <h3 align="left">Connect with me:</h3>
