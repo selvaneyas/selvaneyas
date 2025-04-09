@@ -4,8 +4,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="👋" />, I'm Selva Neyas</h1>
 <h3 align="center">Passionate AI&ML Engineer Transforming Ideas into Intelligent Solutions 💡</h3> 
 
-🚀 AI/ML Engineer | 🌐 Web Developer | 🎓 Computer Science Student
-
 <!-- <h3 align="center">🔥 AI & ML Enthusiast | Web Developer</h3>
 <h3 align="center">🚀 Passionate about Coding </h3> -->
 
@@ -13,11 +11,6 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=selvaneyas&label=Profile%20views&color=0e75b6&style=flat" alt="selvaneyas" /> 
 </p>
-
-
-📫 How to reach me:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/selva-neyas-u)
-- 🧠 [GitHub Projects](https://github.com/selvaneyas)
 
 <!-- GitHub Trophies -->
 <p align="left"> 
@@ -30,6 +23,11 @@
 
 <!-- About Me -->
 - 🌱 I’m currently learning **B.E Computer Science Engineering (Artificial Intelligence and Machine Learning)**
+- 🚀 AI/ML Engineer | 🌐 Web Developer | 🎓 Computer Science Student
+
+📫 How to reach me:
+- 🌐 [LinkedIn](https://www.linkedin.com/in/selva-neyas-u)
+- 🧠 [GitHub Projects](https://github.com/selvaneyas)
 
 <!-- Social Media Links -->
 <h3 align="left">Connect with me:</h3>
