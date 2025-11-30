@@ -31,7 +31,7 @@
 - 🧠 [GitHub Projects](https://github.com/selvaneyas)-->
 
 <!-- Social Media Links -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/selva-neyas-u" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -49,6 +49,12 @@
 <!-- Badges for Skills -->
 ![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
 ![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-red?style=for-the-badge&logo=ai)
+
+## 🚀 Tech Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 <!-- Languages and Tools -->
 <h3 align="left">Languages and Tools:</h3>
@@ -98,6 +104,11 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selvaneyas&" alt="GitHub Streak Stats" />
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=selvaneyas&limit=5&theme=buddhism&combine_all_yearly_contributions=true)
 
 
 <!-- GitHub Activity Graph -->
