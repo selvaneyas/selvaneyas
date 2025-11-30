@@ -23,6 +23,7 @@
 
 <!-- About Me -->
 - 🌱 I’m currently learning **B.E Computer Science Engineering (Artificial Intelligence and Machine Learning)**
+- ♛ International Chess Federation [chess player](https://ratings.fide.com/profile/25698346)
 <!--
                           🚀 AI/ML Engineer | 🌐 Web Developer | 🎓 Computer Science Student
 📫 How to reach me:
